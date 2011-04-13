@@ -1,0 +1,360 @@
+/*
+Theme Name: jQuery Brasil
+Theme URI: http://www.jquerybrasil.org/
+Description: Tema desenvolvido pelos integrantes do jQuery Brasil
+Version: 1.0
+Author: Ruan Carlos / Luiz Tiago Oliveira / Jean Carlos Nascimento
+Author URI: http://ruancarlos.com.br/
+Author URI: http://www.luiztiago.com/
+Author URI: http://suissa.com.br/
+*/
+
+/***** reset ******/
+body, form, img, h1, h2, h3, h4 {
+	border:none;
+	font-family:'Trebuchet MS';
+	margin: 0px;
+	padding: 0px;
+}
+a {
+	color: #1B7BB7; 
+	text-decoration:none; 
+}
+a:hover { text-decoration:underline; }
+hr {
+	border: none 0;
+	border-top: 1px dashed #000;
+	width: 50%;
+	height: 1px;
+} 
+
+
+/****** codigo ********/
+body {
+	background:#263640 url("img/background.jpg") repeat-x;
+	text-align:center; /* hack para o IE */
+}
+
+#everything {
+	width: 960px;
+	margin: 0 auto;
+	text-align:left; /* "rem�dio" para o hack do IE */ 
+}
+
+	/*** header ***/
+	#header {
+		width: 960px;
+		height: 85px;
+		padding: 20px 0px 0px 0px;
+		margin-bottom: 9px;
+	}
+		#menu {
+			float: right;
+			margin-right: 32px;
+		}
+			.lavaLamp {
+				position: relative;
+			    height: 34px; 
+			    width: 480px;
+			    padding: 15px; margin: 10px 0;
+			    overflow: hidden;
+			}
+				.lavaLamp li{
+					float: left;
+        			list-style: none;
+				}
+				
+				.lavaLamp li.back {
+		            background: url("img/lava.gif") no-repeat right -34px;
+		            width: 9px; height: 34px;
+		            z-index: 8;
+		            position: absolute;
+		        }
+			        .lavaLamp li.back .left {
+		                background: url("img/lava.gif") no-repeat top left;
+		                height: 34px;
+		                margin-right: 7px;
+		            }
+		            
+		            .lavaLamp li a {
+			            position: relative; 
+			            overflow: hidden;
+			            text-decoration: none;
+			            color: #fff; 
+			            outline: none;
+			            text-align: center;
+			            height: 30px; top: 7px;
+			            z-index: 10; 
+			            letter-spacing: 0;
+			            float: left; 
+			            display: block;
+			            margin: auto 10px;
+			        }
+					            
+			        
+				
+	
+	/*** container ***/
+	#container {
+		width: 960px;
+		background: url(img/bg.gif);
+		float: left;
+	}
+		#content {
+			float:left;
+			width: 430px;
+			padding: 15px 25px 15px 25px;
+		}
+			#content a {
+				color: #000;
+			}
+			.posthead .date, .more{
+				color: #014d03!important;
+				font-weight: bold;
+			}
+			
+			.posthead .autor {
+				float: right;
+			}
+		
+		
+		#sidebar {
+			float:left;
+			width: 440px;
+			background: #e8ddd2;
+			padding: 20px;
+		}
+		
+		#sidebar h3 {
+			width: 430;
+			height: 40px;
+			background: #131a27;
+			color: #fff;
+			font-weight: bold;
+			font-size: 22px;
+			padding: 10px 0 0 10px;
+			margin-bottom: 10px;
+			border-radius: 10px;
+			-moz-border-radius: 10px;
+			-webkit-border-radius: 10px;
+		}
+
+	/*** footer ***/
+
+	#footer {
+		clear: both;
+		background: #D3C1AD
+	}	
+
+	#footerContent {
+		width: 940px;
+		height: auto;
+		min-height: 300px;
+		padding: 20px 10px;
+		color: #263640;
+		margin: 0 auto;
+	}
+
+#footer p { 
+	text-align: left;
+}
+		#footer #divisoria_rodape {
+			display: block;	
+			margin: 0 auto;
+		}
+		#footer a {
+			color: #263640;
+		}
+		#footer a.leia_mais {
+			color: #1b7bb7;
+		}
+		#footer .coluna_footer {
+			width: 250px;
+			float: left;
+			padding: 20px;	
+			font-size: 14px;
+		}
+		#footer .coluna_footer h3 {
+			margin-bottom: 20px;
+			font-size: 18px;
+			text-align: left;	
+		}
+		#footer .coluna_footer p {
+			margin-left: 20px;	
+			line-height: 23px;
+		}
+		#footer .coluna_footer ul {
+			margin:0;
+			padding: 0;	
+			margin-left: 20px;
+		}
+		#footer .coluna_footer li {
+			list-style: none;	
+			line-height: 23px;
+			text-align: left;
+		}
+		#footer_baixo {
+			width: 100%;
+			height: auto;
+			clear: both;
+			margin-top: 50px;
+		}
+		#footer_baixo p {
+			display: block;
+			margin: 0;
+			padding: 0;	
+		}
+		#footer_baixo #footer_direitos {
+			color: #554242;
+			width: 300px;
+			font-size: 10px;
+			float: left;
+			padding-left: 10px;
+		}
+		#footer_baixo #footer_menu {
+			float: right;
+			text-align: right;
+			width: 400px;
+			border: 2px solid #000;
+			display: block;
+		}
+		#menu_footer{
+			margin: 0;
+			padding: 0;
+			margin-right: 10px;
+			text-align: right;
+			width: 600px;
+			float: right;
+			display: block;
+		}
+		#menu_footer li {
+			display: inline;
+			list-style: none;	
+			text-align: right;
+			margin: 10px;
+		}
+		#menu_footer li a{
+			color: #1b7bb7;
+			font-size: 14px;			
+		}
+		
+	
+	/*** POSTS ***/
+	.postcontent h1 {
+		color: #131a27;
+		font-style: italic;
+		font-size: 22px;
+		margin-bottom: 10px;
+	}
+	.postcontent p, .postcontent div, .postcontent li {
+		color: #333;
+		font-size: 12px;
+		text-align: left;
+		line-height: 20px
+	}
+	
+
+/* Comments */
+#comments {
+	border-top: #6A6A6A 1px solid;
+	padding-top:15px;
+}
+	#comments h3{
+		border-bottom: 1px solid #CCCCCC;
+		color:#333333;
+		font-size:18px;
+		margin-bottom:10px;
+		padding-bottom:5px;
+	}
+	.commentlist {
+		display:block;
+		float:left;
+		list-style-type:none;
+		border-bottom: 1px dashed #000;
+		padding: 0px!important;
+font-size: 12px;
+line-height: 20px;
+	}
+		.commentlist li {
+			display:block;
+			float:left;
+		}
+			span.avatar {
+				float:left;
+				text-align:center;
+				width:70px;height:70px;
+				display:block;
+				padding: 5px; 
+			}
+			.autor-date {
+				float:left;
+				width:350px;
+				color:#A30006;
+			}
+			.autor-date a {
+				color:#A30006;
+			}
+			.autor-date .autor {
+				float:left;
+				font-size:13px;
+				font-style:normal;
+				font-weight:bold;
+			}
+			.autor-date .date {
+				float:right;
+			}
+			.comment_text {
+				float:left;
+				width:350px;
+				overflow: hidden;	
+				text-align: left;
+font-size: 12px;
+line-height: 20px;
+			}
+			.commentlist li p {
+				margin-bottom:6px;
+				margin-top:6px;
+font-size: 12px;
+line-height: 20px;
+			}
+#commentform {
+	float:left;
+	margin-top:20px;
+}
+	#commentform label {
+		display:block;
+	}
+	#commentform label small{
+		display:inline;
+		font-size:11px;
+		color:#999999;
+	}
+	#commentform input, #commentform textarea {
+		background-color:#FFFFFF;
+		border:1px solid #D4D4D4;
+		color:#AAAAAA;
+		margin-bottom:5px;
+		padding: 8px;
+		width:400px;
+	}
+	#commentform input:focus, #commentform textarea:focus{
+		background-color:#D4D4D4;
+		border: 1px solid #CCCCCC;
+	}
+	#commentform  #submit{
+		background-color:#A30006!important;
+		color:#FFFFFF!important;
+		float:left!important;
+		margin-top:5px!important;
+		width:75px!important;
+	}
+
+#sidebar img.avatar {
+	width: 45px;
+	height: 45px;
+	margin-right: 10px;
+}
+
+#sidebar img.avatar:last-child {
+	margin-right: 0;
+}

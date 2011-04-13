@@ -1,4 +1,4 @@
-Se for a 1º vez:
+Se for a primeira vez:
 
   mkdir jQuery-Brasil
   cd jQuery-Brasil
@@ -10,9 +10,18 @@ Se for a 1º vez:
   git push -u origin master
       
 
-Se já existir?
+Se ja existir?
 
   cd existing_git_repo
   git remote add origin git@github.com:ruanltbg/jQuery-Brasil.git
   git push -u origin master
-      
+  
+comandos
+
+sempre que fizer alterações seguir.
+git status (mostra todas as modificações)
+git add -A (add os arquivos novos)
+git commit -am (Comita suas mudanças)
+git pull origin master (baixa as ultimas atualizações
+git status (verifica se precisa fazer algum merge nas alterações, caso precise, faca o merge ai repita do passo 3 em diante)
+git push origin master (manda suas modificacoes adicionadas no commit para o servidor)
