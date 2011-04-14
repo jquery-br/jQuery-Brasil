@@ -1,0 +1,830 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sexybookmarks\n"
+"POT-Creation-Date: 2011-03-02 12:48:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/bookmarks-data.php:21
+msgid "Check this box to include %s in your bookmarking menu"
+msgstr ""
+
+#: includes/bookmarks-data.php:28 includes/bookmarks-data.php:58
+#: includes/bookmarks-data.php:83 includes/bookmarks-data.php:198
+#: includes/bookmarks-data.php:253 includes/bookmarks-data.php:258
+#: includes/bookmarks-data.php:263 includes/bookmarks-data.php:268
+#: includes/bookmarks-data.php:308 includes/bookmarks-data.php:323
+#: includes/bookmarks-data.php:333 includes/bookmarks-data.php:338
+#: includes/bookmarks-data.php:358
+msgid "Submit this to "
+msgstr ""
+
+#: includes/bookmarks-data.php:33 includes/bookmarks-data.php:38
+#: includes/bookmarks-data.php:53 includes/bookmarks-data.php:68
+#: includes/bookmarks-data.php:73 includes/bookmarks-data.php:88
+#: includes/bookmarks-data.php:113 includes/bookmarks-data.php:148
+#: includes/bookmarks-data.php:153 includes/bookmarks-data.php:158
+#: includes/bookmarks-data.php:168 includes/bookmarks-data.php:173
+#: includes/bookmarks-data.php:288 includes/bookmarks-data.php:348
+#: includes/bookmarks-data.php:368 includes/bookmarks-data.php:388
+#: includes/bookmarks-data.php:398 includes/bookmarks-data.php:403
+#: includes/bookmarks-data.php:413 includes/bookmarks-data.php:423
+#: includes/bookmarks-data.php:438
+msgid "Share this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:43
+msgid "Digg this!"
+msgstr ""
+
+#: includes/bookmarks-data.php:48
+msgid "Post this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:63
+msgid "Stumble upon something good? Share it on StumbleUpon"
+msgstr ""
+
+#: includes/bookmarks-data.php:78 includes/bookmarks-data.php:218
+#: includes/bookmarks-data.php:238 includes/bookmarks-data.php:378
+msgid "Post this to "
+msgstr ""
+
+#: includes/bookmarks-data.php:93
+msgid "Tweet This!"
+msgstr ""
+
+#: includes/bookmarks-data.php:97
+msgid "an 'Email to a Friend' link"
+msgstr ""
+
+#: includes/bookmarks-data.php:98
+msgid "Email this to a friend?"
+msgstr ""
+
+#: includes/bookmarks-data.php:103
+msgid "Suggest this article to "
+msgstr ""
+
+#: includes/bookmarks-data.php:106
+msgid "a 'Subscribe to Comments' link"
+msgstr ""
+
+#: includes/bookmarks-data.php:107 includes/public.php:141
+msgid "Subscribe to the comments for this post?"
+msgstr ""
+
+#: includes/bookmarks-data.php:118
+msgid "Seed this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:123 includes/bookmarks-data.php:128
+#: includes/bookmarks-data.php:138 includes/bookmarks-data.php:143
+#: includes/bookmarks-data.php:178 includes/bookmarks-data.php:183
+#: includes/bookmarks-data.php:188 includes/bookmarks-data.php:193
+#: includes/bookmarks-data.php:213 includes/bookmarks-data.php:373
+#: includes/bookmarks-data.php:393 includes/bookmarks-data.php:418
+msgid "Add this to "
+msgstr ""
+
+#: includes/bookmarks-data.php:133
+msgid "Post on Google Buzz"
+msgstr ""
+
+#: includes/bookmarks-data.php:163
+msgid "Mark this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:172 includes/bookmarks-data.php:177
+#: includes/bookmarks-data.php:182 includes/bookmarks-data.php:187
+#: includes/bookmarks-data.php:192
+msgid " (Russian)"
+msgstr ""
+
+#: includes/bookmarks-data.php:203
+msgid "Send this page to "
+msgstr ""
+
+#: includes/bookmarks-data.php:208
+msgid "Bump this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:223
+msgid "Save this to "
+msgstr ""
+
+#: includes/bookmarks-data.php:228
+msgid "Tip this to "
+msgstr ""
+
+#: includes/bookmarks-data.php:233
+msgid "Sphinn this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:243
+msgid "Grind this! on "
+msgstr ""
+
+#: includes/bookmarks-data.php:248
+msgid "Ping this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:252 includes/bookmarks-data.php:257
+msgid " (Dutch)"
+msgstr ""
+
+#: includes/bookmarks-data.php:273
+msgid "Blend this!"
+msgstr ""
+
+#: includes/bookmarks-data.php:277
+msgid " (Polish)"
+msgstr ""
+
+#: includes/bookmarks-data.php:278
+msgid "Add this to Wykop!"
+msgstr ""
+
+#: includes/bookmarks-data.php:283
+msgid "Engage with this article!"
+msgstr ""
+
+#: includes/bookmarks-data.php:292
+msgid " (Swedish)"
+msgstr ""
+
+#: includes/bookmarks-data.php:293
+msgid "Push this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:297
+msgid " (Japanese)"
+msgstr ""
+
+#: includes/bookmarks-data.php:298
+msgid "Bookmarks this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:303
+msgid "Store this link on "
+msgstr ""
+
+#: includes/bookmarks-data.php:313
+msgid "Add to a lense on "
+msgstr ""
+
+#: includes/bookmarks-data.php:318
+msgid "Submit this story to "
+msgstr ""
+
+#: includes/bookmarks-data.php:328
+msgid "Clip this to "
+msgstr ""
+
+#: includes/bookmarks-data.php:332 includes/bookmarks-data.php:337
+msgid " (Spanish)"
+msgstr ""
+
+#: includes/bookmarks-data.php:343
+msgid "Submit this link to "
+msgstr ""
+
+#: includes/bookmarks-data.php:353
+msgid "Submit tip to "
+msgstr ""
+
+#: includes/bookmarks-data.php:363
+msgid "Promote this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:383
+msgid "Blog this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:397
+msgid " (Estonian)"
+msgstr ""
+
+#: includes/bookmarks-data.php:408
+msgid "Add this link to "
+msgstr ""
+
+#: includes/bookmarks-data.php:412
+msgid "(Italian)"
+msgstr ""
+
+#: includes/bookmarks-data.php:428
+msgid "Spring this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:433
+msgid "Box this on "
+msgstr ""
+
+#: includes/bookmarks-data.php:443 includes/bookmarks-data.php:448
+#: includes/bookmarks-data.php:453
+msgid "Email this via "
+msgstr ""
+
+#: includes/bookmarks-data.php:458
+msgid "Share this via "
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:15
+msgid "Shareaholic Analtyics"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:21
+msgid "Shareaholic Analtyics is coming!!!!"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:24
+msgid "Register your account today to recieve update info via email."
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:26
+#: includes/shrsb_authentication_page.php:66
+msgid "Get Share Pro"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:42
+#: includes/shrsb_authentication_page.php:107
+msgid "Why Register ?"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:56
+#: includes/shrsb_authentication_page.php:121 sexy-bookmarks.php:792
+msgid "Helpful Plugin Links"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:61
+#: includes/shrsb_authentication_page.php:126 sexy-bookmarks.php:797
+msgid "Installation &amp; Usage Guide"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:62
+#: includes/shrsb_authentication_page.php:127 sexy-bookmarks.php:798
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:63
+#: includes/shrsb_authentication_page.php:128 sexy-bookmarks.php:799
+msgid "Bug Submission Form"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:64
+#: includes/shrsb_authentication_page.php:129 sexy-bookmarks.php:800
+msgid "Feature Request Form"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:65
+#: includes/shrsb_authentication_page.php:130 sexy-bookmarks.php:801
+msgid "Submit a Translation"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:66
+#: includes/shrsb_authentication_page.php:131 sexy-bookmarks.php:802
+msgid "Shareaholic Browsers Add-ons"
+msgstr ""
+
+#: includes/shrsb_analytics_page.php:67
+#: includes/shrsb_authentication_page.php:132 sexy-bookmarks.php:803
+msgid "Thanks &amp; Credits"
+msgstr ""
+
+#: includes/public.php:375
+msgid "An unknown error occurred in SexyBookmarks"
+msgstr ""
+
+#: includes/public.php:640
+msgid "SexyBookmarks has been disabled on this page"
+msgstr ""
+
+#: includes/shrsb_authentication_page.php:51
+msgid "Shareaholic Pro"
+msgstr ""
+
+#: includes/shrsb_authentication_page.php:57
+msgid "Shareaholic Professional is coming!!!!"
+msgstr ""
+
+#: includes/shrsb_authentication_page.php:73
+#: includes/shrsb_authentication_page.php:94
+msgid "Authenticate"
+msgstr ""
+
+#: includes/shrsb_authentication_page.php:79
+msgid "Status"
+msgstr ""
+
+#: includes/shrsb_authentication_page.php:85
+msgid "Authenticated"
+msgstr ""
+
+#: includes/shrsb_authentication_page.php:90
+msgid "Enter the API key that you registered for your application."
+msgstr ""
+
+#: sexy-bookmarks.php:162
+msgid ""
+"NOTICE: Shareaholic was just updated... Please visit the %sPlugin Options "
+"Page%s and re-save your preferences."
+msgstr ""
+
+#: sexy-bookmarks.php:200
+msgid ""
+"NOTICE: Shareaholic needs to be configured... Please visit the %sPlugin "
+"Options Page%s and set your preferences."
+msgstr ""
+
+#: sexy-bookmarks.php:252
+msgid ""
+"WARNING: You are about to reset all settings to their default state! Do you "
+"wish to continue?"
+msgstr ""
+
+#: sexy-bookmarks.php:256 sexy-bookmarks.php:492 sexy-bookmarks.php:615
+#: sexy-bookmarks.php:619 sexy-bookmarks.php:628 sexy-bookmarks.php:689
+#: sexy-bookmarks.php:770
+msgid "Yes"
+msgstr ""
+
+#: sexy-bookmarks.php:256
+msgid "Cancel"
+msgstr ""
+
+#: sexy-bookmarks.php:296
+msgid "All settings have been reset to their default values."
+msgstr ""
+
+#: sexy-bookmarks.php:340
+msgid "Your changes have been saved successfully!"
+msgstr ""
+
+#: sexy-bookmarks.php:343
+msgid "Please choose where you would like the menu to be displayed."
+msgstr ""
+
+#: sexy-bookmarks.php:344
+msgid ""
+"You can't display the menu if you don't choose a few sites to add to it!"
+msgstr ""
+
+#: sexy-bookmarks.php:345
+msgid "Please choose where you want the menu displayed."
+msgstr ""
+
+#: sexy-bookmarks.php:355
+msgid ""
+"You must first download and activate the %sTwitter Friendly Links Plugin%s "
+"before hosting your own short URLs..."
+msgstr ""
+
+#: sexy-bookmarks.php:357
+msgid ""
+"You must first download and activate the %sYOURLS Plugin%s before hosting "
+"your own short URLs..."
+msgstr ""
+
+#: sexy-bookmarks.php:374
+msgid ""
+"WARNING: The request for a custom sprite has timed out. Reverting to default "
+"sprite files."
+msgstr ""
+
+#: sexy-bookmarks.php:376
+msgid ""
+"Changes saved successfully. However, you should try to generate a custom "
+"sprite again later."
+msgstr ""
+
+#: sexy-bookmarks.php:380 sexy-bookmarks.php:402
+msgid ""
+"WARNING: Your %sspritegen folder%s is not writeable by the server! %sNeed "
+"Help?%s"
+msgstr ""
+
+#: sexy-bookmarks.php:382 sexy-bookmarks.php:387 sexy-bookmarks.php:392
+#: sexy-bookmarks.php:403 sexy-bookmarks.php:407 sexy-bookmarks.php:411
+msgid ""
+"Changes saved successfully. However, settings are not optimal until you "
+"resolve the issue listed above."
+msgstr ""
+
+#: sexy-bookmarks.php:385 sexy-bookmarks.php:406
+msgid ""
+"WARNING: You need to delete the current custom sprite %s before the plugin "
+"can write to the folder. %sNeed Help?%s"
+msgstr ""
+
+#: sexy-bookmarks.php:390 sexy-bookmarks.php:410
+msgid ""
+"WARNING: You need to delete the current custom stylesheet %s before the "
+"plugin can write to the folder. %sNeed Help?%s"
+msgstr ""
+
+#: sexy-bookmarks.php:485
+msgid "Shareaholic for Publishers [BETA]"
+msgstr ""
+
+#: sexy-bookmarks.php:490
+msgid ""
+"We completely re-wrote Shareaholic from the ground up to make it faster, "
+"smarter, better.  We wanted to remind you that we will be switching over "
+"everyone to this new version soon. If you haven't already, please try out "
+"this version now to make sure it is working properly for you."
+msgstr ""
+
+#: sexy-bookmarks.php:491
+msgid "Use new version?"
+msgstr ""
+
+#: sexy-bookmarks.php:493 sexy-bookmarks.php:616 sexy-bookmarks.php:620
+#: sexy-bookmarks.php:624 sexy-bookmarks.php:629 sexy-bookmarks.php:633
+#: sexy-bookmarks.php:690 sexy-bookmarks.php:694 sexy-bookmarks.php:771
+msgid "No"
+msgstr ""
+
+#: sexy-bookmarks.php:494
+msgid "You can switch back at any time."
+msgstr ""
+
+#: sexy-bookmarks.php:498
+msgid ""
+"**BONUS** You have been selected to preview our upcoming premium analytics "
+"add-on for a limited time for FREE.  <b>%sFollow this link%s to keep on top "
+"of how your content is being shared!</b>"
+msgstr ""
+
+#: sexy-bookmarks.php:498
+msgid ""
+"We are anxious to hear what you think. Please follow %sthis link%s to share "
+"your feedback with us!"
+msgstr ""
+
+#: sexy-bookmarks.php:505
+msgid "Enabled Networks"
+msgstr ""
+
+#: sexy-bookmarks.php:509
+msgid "Select the Networks to display. Drag to reorder."
+msgstr ""
+
+#: sexy-bookmarks.php:511
+msgid "Select"
+msgstr ""
+
+#: sexy-bookmarks.php:512
+msgid "All"
+msgstr ""
+
+#: sexy-bookmarks.php:513
+msgid "None"
+msgstr ""
+
+#: sexy-bookmarks.php:514
+msgid "Most Popular"
+msgstr ""
+
+#: sexy-bookmarks.php:524
+msgid "Made with Much Love, these Icons are © Shareaholic"
+msgstr ""
+
+#: sexy-bookmarks.php:529
+msgid "Functionality Settings"
+msgstr ""
+
+#: sexy-bookmarks.php:535
+msgid "Twitter Options:"
+msgstr ""
+
+#: sexy-bookmarks.php:537
+msgid "Configuration Instructions:"
+msgstr ""
+
+#: sexy-bookmarks.php:538
+msgid "Using the strings %s and %s you can fully customize your tweet output."
+msgstr ""
+
+#: sexy-bookmarks.php:539
+msgid "Example Configurations:"
+msgstr ""
+
+#: sexy-bookmarks.php:541
+msgid "or"
+msgstr ""
+
+#: sexy-bookmarks.php:545
+msgid "Configure Custom Tweet Template:"
+msgstr ""
+
+#: sexy-bookmarks.php:545
+msgid "Characters:"
+msgstr ""
+
+#: sexy-bookmarks.php:548
+msgid "Example Tweet Output:"
+msgstr ""
+
+#: sexy-bookmarks.php:550
+msgid "Which URL Shortener?"
+msgstr ""
+
+#: sexy-bookmarks.php:555
+msgid "Don't use a shortener"
+msgstr ""
+
+#: sexy-bookmarks.php:569 sexy-bookmarks.php:578 sexy-bookmarks.php:591
+#: sexy-bookmarks.php:603
+msgid "User ID:"
+msgstr ""
+
+#: sexy-bookmarks.php:571 sexy-bookmarks.php:580 sexy-bookmarks.php:605
+msgid "API Key:"
+msgstr ""
+
+#: sexy-bookmarks.php:587 sexy-bookmarks.php:599
+msgid "Track Generated Links?"
+msgstr ""
+
+#: sexy-bookmarks.php:593
+msgid "Password:"
+msgstr ""
+
+#: sexy-bookmarks.php:612
+msgid "General Functionality Options:"
+msgstr ""
+
+#: sexy-bookmarks.php:614
+msgid "Add nofollow to the links?"
+msgstr ""
+
+#: sexy-bookmarks.php:618
+msgid "Open links in new window?"
+msgstr ""
+
+#: sexy-bookmarks.php:622
+msgid "Show Share Counters for Facebook, Twitter and Delicious?"
+msgstr ""
+
+#: sexy-bookmarks.php:623 sexy-bookmarks.php:632
+msgid "Yes (recommended)"
+msgstr ""
+
+#: sexy-bookmarks.php:625
+msgid "(beta-mode exclusive feature)"
+msgstr ""
+
+#: sexy-bookmarks.php:627
+msgid "Show Shareaholic Link?"
+msgstr ""
+
+#: sexy-bookmarks.php:631
+msgid "Track Performance?"
+msgstr ""
+
+#: sexy-bookmarks.php:640
+msgid "Plugin Aesthetics"
+msgstr ""
+
+#: sexy-bookmarks.php:645
+msgid "Warning!"
+msgstr ""
+
+#: sexy-bookmarks.php:646
+msgid ""
+"This option is intended %STRICTLY%s for users who understand how to edit CSS/"
+"JS and intend to change/edit the associated images themselves. "
+"Unfortunately, no support will be offered for this feature, as I cannot be "
+"held accountable for your coding and/or image editing mistakes."
+msgstr ""
+
+#: sexy-bookmarks.php:647
+msgid "How it works..."
+msgstr ""
+
+#: sexy-bookmarks.php:648
+msgid ""
+"Since you have chosen for the plugin to override the style settings with "
+"your own custom mods, it will now pull the files from the new folders it is "
+"going to create on your server as soon as you save your changes. The file/"
+"folder locations should be as follows:"
+msgstr ""
+
+#: sexy-bookmarks.php:665
+msgid ""
+"Once you have saved your changes, you will be able to edit the image sprite "
+"that holds all of the icons for Shareaholic as well as the CSS which "
+"accompanies it. Just be sure that you do in fact edit the CSS if you edit "
+"the images, as it is unlikely the heights, widths, and background positions "
+"of the images will stay the same after you are done."
+msgstr ""
+
+#: sexy-bookmarks.php:666
+msgid ""
+"Just a quick note... When you edit the styles and images to include your own "
+"custom backgrounds, icons, and CSS styles, be aware that those changes will "
+"not be reflected on the plugin options page. In other words: when you select "
+"your networks to be displayed, or when you select the background image to "
+"use, it will still be displaying the images from the original plugin "
+"directory."
+msgstr ""
+
+#: sexy-bookmarks.php:667
+msgid "In Case of Emergency"
+msgstr ""
+
+#: sexy-bookmarks.php:668
+msgid ""
+"If you happen to mess things up, you can follow these directions to reset "
+"the plugin back to normal and try again if you wish:"
+msgstr ""
+
+#: sexy-bookmarks.php:670
+msgid ""
+"Login to your server via FTP or SSH. (whichever you are more comfortable "
+"with)"
+msgstr ""
+
+#: sexy-bookmarks.php:671
+msgid "Navigate to your wp-content directory."
+msgstr ""
+
+#: sexy-bookmarks.php:672
+msgid "Delete the directory named \"sexy-mods\"."
+msgstr ""
+
+#: sexy-bookmarks.php:673
+msgid "Login to your WordPress dashboard."
+msgstr ""
+
+#: sexy-bookmarks.php:674
+msgid "Go to the SexyBookmarks plugin options page. (Settings->SexyBookmarks)"
+msgstr ""
+
+#: sexy-bookmarks.php:675
+msgid "Deselect the \"Use custom mods\" option."
+msgstr ""
+
+#: sexy-bookmarks.php:676
+msgid "Save your changes."
+msgstr ""
+
+#: sexy-bookmarks.php:678
+msgid "Close Message"
+msgstr ""
+
+#: sexy-bookmarks.php:682
+msgid "Override Styles With Custom Mods Instead?"
+msgstr ""
+
+#: sexy-bookmarks.php:687
+msgid "jQuery Related Options"
+msgstr ""
+
+#: sexy-bookmarks.php:688
+msgid "Animate-expand multi-lined bookmarks?"
+msgstr ""
+
+#: sexy-bookmarks.php:691
+msgid "Auto-space/center the bookmarks?"
+msgstr ""
+
+#: sexy-bookmarks.php:692
+msgid "Space"
+msgstr ""
+
+#: sexy-bookmarks.php:693
+msgid "Center"
+msgstr ""
+
+#: sexy-bookmarks.php:695
+msgid "jQuery Compatibility Fix"
+msgstr ""
+
+#: sexy-bookmarks.php:696
+msgid ""
+"Check this box ONLY if you notice jQuery being loaded twice in your source "
+"code!"
+msgstr ""
+
+#: sexy-bookmarks.php:698
+msgid "Load scripts in Footer"
+msgstr ""
+
+#: sexy-bookmarks.php:699
+msgid ""
+"Check this box if you want the SexyBookmarks javascript to be loaded in your "
+"blog's footer."
+msgstr ""
+
+#: sexy-bookmarks.php:701
+msgid "Background Image Options"
+msgstr ""
+
+#: sexy-bookmarks.php:703
+msgid "Use a background image?"
+msgstr ""
+
+#: sexy-bookmarks.php:736
+msgid "Menu Placement"
+msgstr ""
+
+#: sexy-bookmarks.php:742
+msgid "Need help with this? Find it in the %sofficial install guide%s."
+msgstr ""
+
+#: sexy-bookmarks.php:748
+msgid "Menu Location (in relation to content):"
+msgstr ""
+
+#: sexy-bookmarks.php:749
+msgid "Above Content"
+msgstr ""
+
+#: sexy-bookmarks.php:750
+msgid "Below Content"
+msgstr ""
+
+#: sexy-bookmarks.php:751
+msgid "Above & Below Content"
+msgstr ""
+
+#: sexy-bookmarks.php:752
+msgid "Manual Mode"
+msgstr ""
+
+#: sexy-bookmarks.php:753
+msgid "Posts, pages, or the whole shebang?"
+msgstr ""
+
+#: sexy-bookmarks.php:758
+msgid "Posts Only"
+msgstr ""
+
+#: sexy-bookmarks.php:759
+msgid "Pages Only"
+msgstr ""
+
+#: sexy-bookmarks.php:760
+msgid "Index Only"
+msgstr ""
+
+#: sexy-bookmarks.php:761
+msgid "Posts &amp; Pages"
+msgstr ""
+
+#: sexy-bookmarks.php:762
+msgid "Posts &amp; Index"
+msgstr ""
+
+#: sexy-bookmarks.php:763
+msgid "Pages &amp; Index"
+msgstr ""
+
+#: sexy-bookmarks.php:764
+msgid "Posts, Pages, &amp; Index"
+msgstr ""
+
+#: sexy-bookmarks.php:768
+msgid "Click here for help with this option"
+msgstr ""
+
+#: sexy-bookmarks.php:769
+msgid "Show in RSS feed?"
+msgstr ""
+
+#: sexy-bookmarks.php:773
+msgid "Hide menu from mobile browsers?"
+msgstr ""
+
+#: sexy-bookmarks.php:782
+msgid "Save Changes"
+msgstr ""
+
+#: sexy-bookmarks.php:786
+msgid "Reset Settings"
+msgstr ""
+
+#: sexy-bookmarks.php:837
+msgid "Shareaholic for Publishers"
+msgstr ""
+
+#: sexy-bookmarks.php:837
+msgid "Shareaholic"
+msgstr ""
+
+#: sexy-bookmarks.php:840
+msgid "SexyBookmarks"
+msgstr ""
+
+#: sexy-bookmarks.php:886
+msgid "Settings"
+msgstr ""

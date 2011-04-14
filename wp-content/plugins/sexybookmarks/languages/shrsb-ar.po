@@ -1,0 +1,1059 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SexyBookmarks v3.3.6 Arabic\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sexybookmarks\n"
+"POT-Creation-Date: 2011-03-02 12:48:51+00:00\n"
+"PO-Revision-Date: 2011-03-08 13:02+0200\n"
+"Last-Translator: Modar Soos <modarsoos@yahoo.com>\n"
+"Language-Team: Mickey Mouse <modarsoos@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: SYRIAN ARAB REPUBLIC\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/bookmarks-data.php:21
+msgid "Check this box to include %s in your bookmarking menu"
+msgstr "حدد هذا المربع لإظهار %s في قائمة الروابط في الموقع"
+
+#: includes/bookmarks-data.php:28
+#: includes/bookmarks-data.php:58
+#: includes/bookmarks-data.php:83
+#: includes/bookmarks-data.php:198
+#: includes/bookmarks-data.php:253
+#: includes/bookmarks-data.php:258
+#: includes/bookmarks-data.php:263
+#: includes/bookmarks-data.php:268
+#: includes/bookmarks-data.php:308
+#: includes/bookmarks-data.php:323
+#: includes/bookmarks-data.php:333
+#: includes/bookmarks-data.php:338
+#: includes/bookmarks-data.php:358
+msgid "Submit this to "
+msgstr "نشر هذا الموضوع في"
+
+#: includes/bookmarks-data.php:33
+#: includes/bookmarks-data.php:38
+#: includes/bookmarks-data.php:53
+#: includes/bookmarks-data.php:68
+#: includes/bookmarks-data.php:73
+#: includes/bookmarks-data.php:88
+#: includes/bookmarks-data.php:113
+#: includes/bookmarks-data.php:148
+#: includes/bookmarks-data.php:153
+#: includes/bookmarks-data.php:158
+#: includes/bookmarks-data.php:168
+#: includes/bookmarks-data.php:173
+#: includes/bookmarks-data.php:288
+#: includes/bookmarks-data.php:348
+#: includes/bookmarks-data.php:368
+#: includes/bookmarks-data.php:388
+#: includes/bookmarks-data.php:398
+#: includes/bookmarks-data.php:403
+#: includes/bookmarks-data.php:413
+#: includes/bookmarks-data.php:423
+#: includes/bookmarks-data.php:438
+msgid "Share this on "
+msgstr "شارك هذا الموضوع على"
+
+#: includes/bookmarks-data.php:43
+msgid "Digg this!"
+msgstr "انشرها على Digg this!"
+
+#: includes/bookmarks-data.php:48
+msgid "Post this on "
+msgstr "نشر هذا الموضوع في"
+
+#: includes/bookmarks-data.php:63
+msgid "Stumble upon something good? Share it on StumbleUpon"
+msgstr "Stumble upon something good? Share it on StumbleUpon"
+
+#: includes/bookmarks-data.php:78
+#: includes/bookmarks-data.php:218
+#: includes/bookmarks-data.php:238
+#: includes/bookmarks-data.php:378
+msgid "Post this to "
+msgstr "نشر هذا الموضوع في"
+
+#: includes/bookmarks-data.php:93
+msgid "Tweet This!"
+msgstr "انشرها في تويتر!"
+
+#: includes/bookmarks-data.php:97
+msgid "an 'Email to a Friend' link"
+msgstr "رابط \"أرسل لصديق\""
+
+#: includes/bookmarks-data.php:98
+msgid "Email this to a friend?"
+msgstr "إرسال هذا الموضوع لصديق؟"
+
+#: includes/bookmarks-data.php:103
+msgid "Suggest this article to "
+msgstr "اقترح هذا الموضوع ل"
+
+#: includes/bookmarks-data.php:106
+msgid "a 'Subscribe to Comments' link"
+msgstr "رابط \"الاشتراك بالتعليقات\""
+
+#: includes/bookmarks-data.php:107
+#: includes/public.php:141
+msgid "Subscribe to the comments for this post?"
+msgstr "الاشتراك بالتعليقات في هذا الموضوع؟"
+
+#: includes/bookmarks-data.php:118
+msgid "Seed this on "
+msgstr "Seed this on "
+
+#: includes/bookmarks-data.php:123
+#: includes/bookmarks-data.php:128
+#: includes/bookmarks-data.php:138
+#: includes/bookmarks-data.php:143
+#: includes/bookmarks-data.php:178
+#: includes/bookmarks-data.php:183
+#: includes/bookmarks-data.php:188
+#: includes/bookmarks-data.php:193
+#: includes/bookmarks-data.php:213
+#: includes/bookmarks-data.php:373
+#: includes/bookmarks-data.php:393
+#: includes/bookmarks-data.php:418
+msgid "Add this to "
+msgstr "إضافة هذا الموضوع في"
+
+#: includes/bookmarks-data.php:133
+msgid "Post on Google Buzz"
+msgstr "نشر في صدى غوغل"
+
+#: includes/bookmarks-data.php:163
+msgid "Mark this on "
+msgstr "حدد في"
+
+#: includes/bookmarks-data.php:172
+#: includes/bookmarks-data.php:177
+#: includes/bookmarks-data.php:182
+#: includes/bookmarks-data.php:187
+#: includes/bookmarks-data.php:192
+msgid " (Russian)"
+msgstr "(روسي)"
+
+#: includes/bookmarks-data.php:203
+msgid "Send this page to "
+msgstr "أرسل هذه الصفحة لـ"
+
+#: includes/bookmarks-data.php:208
+msgid "Bump this on "
+msgstr "Bump this on "
+
+#: includes/bookmarks-data.php:223
+msgid "Save this to "
+msgstr "احفظ هذا الموضوع في"
+
+#: includes/bookmarks-data.php:228
+msgid "Tip this to "
+msgstr "ضعها كملاحظة على"
+
+#: includes/bookmarks-data.php:233
+msgid "Sphinn this on "
+msgstr "Sphinn this on "
+
+#: includes/bookmarks-data.php:243
+msgid "Grind this! on "
+msgstr "Grind this! on "
+
+#: includes/bookmarks-data.php:248
+msgid "Ping this on "
+msgstr "Ping this on "
+
+#: includes/bookmarks-data.php:252
+#: includes/bookmarks-data.php:257
+msgid " (Dutch)"
+msgstr "(هولندي)"
+
+#: includes/bookmarks-data.php:273
+msgid "Blend this!"
+msgstr "Blend this!"
+
+#: includes/bookmarks-data.php:277
+msgid " (Polish)"
+msgstr "(بولندي)"
+
+#: includes/bookmarks-data.php:278
+msgid "Add this to Wykop!"
+msgstr "إضافة الموضوع إلى Wykop!"
+
+#: includes/bookmarks-data.php:283
+msgid "Engage with this article!"
+msgstr "التعامل مع هذا الموضوع!"
+
+#: includes/bookmarks-data.php:292
+msgid " (Swedish)"
+msgstr "(سويدي)"
+
+#: includes/bookmarks-data.php:293
+msgid "Push this on "
+msgstr "ادفع هذا الموضوع إلى"
+
+#: includes/bookmarks-data.php:297
+msgid " (Japanese)"
+msgstr "(ياباني)"
+
+#: includes/bookmarks-data.php:298
+msgid "Bookmarks this on "
+msgstr "احفظ كمفضلة على"
+
+#: includes/bookmarks-data.php:303
+msgid "Store this link on "
+msgstr "احفظ هذا الرابط على"
+
+#: includes/bookmarks-data.php:313
+msgid "Add to a lense on "
+msgstr "Add to a lense on "
+
+#: includes/bookmarks-data.php:318
+msgid "Submit this story to "
+msgstr "أنشر هذه القصة على"
+
+#: includes/bookmarks-data.php:328
+msgid "Clip this to "
+msgstr "Clip this to "
+
+#: includes/bookmarks-data.php:332
+#: includes/bookmarks-data.php:337
+msgid " (Spanish)"
+msgstr "(إسباني)"
+
+#: includes/bookmarks-data.php:343
+msgid "Submit this link to "
+msgstr "أرسل هذا الرابط إلى"
+
+#: includes/bookmarks-data.php:353
+msgid "Submit tip to "
+msgstr "Submit tip to "
+
+#: includes/bookmarks-data.php:363
+msgid "Promote this on "
+msgstr "Promote this on "
+
+#: includes/bookmarks-data.php:383
+msgid "Blog this on "
+msgstr "انشر هذا الموضوع في"
+
+#: includes/bookmarks-data.php:397
+msgid " (Estonian)"
+msgstr "(استوني)"
+
+#: includes/bookmarks-data.php:408
+msgid "Add this link to "
+msgstr "إضافة هذا الرابط إلى"
+
+#: includes/bookmarks-data.php:412
+msgid "(Italian)"
+msgstr "(إيطالي)"
+
+#: includes/bookmarks-data.php:428
+msgid "Spring this on "
+msgstr "Spring this on "
+
+#: includes/bookmarks-data.php:433
+msgid "Box this on "
+msgstr "Box this on "
+
+#: includes/bookmarks-data.php:443
+#: includes/bookmarks-data.php:448
+#: includes/bookmarks-data.php:453
+msgid "Email this via "
+msgstr "أرسل هذا الموضوع بواسطة"
+
+#: includes/bookmarks-data.php:458
+msgid "Share this via "
+msgstr "شارك هذا الموضوع بواسطة"
+
+#: includes/shrsb_analytics_page.php:15
+msgid "Shareaholic Analtyics"
+msgstr "محلل الروابط الجذابة"
+
+#: includes/shrsb_analytics_page.php:21
+msgid "Shareaholic Analtyics is coming!!!!"
+msgstr "نسخة محلل الروابط الجذابة قادمة!!!"
+
+#: includes/shrsb_analytics_page.php:24
+msgid "Register your account today to recieve update info via email."
+msgstr "قم بعملية تسجيل لحسابك اليوم لتستقبل معلومات حول تحديثات البرنامج عن طريق بريدك الإلكتروني."
+
+#: includes/shrsb_analytics_page.php:26
+#: includes/shrsb_authentication_page.php:66
+msgid "Get Share Pro"
+msgstr "احصل على النسخة الاحترافية"
+
+#: includes/shrsb_analytics_page.php:42
+#: includes/shrsb_authentication_page.php:107
+msgid "Why Register ?"
+msgstr "لماذا عملية تسجيل البرنامج ؟"
+
+#: includes/shrsb_analytics_page.php:56
+#: includes/shrsb_authentication_page.php:121
+#: sexy-bookmarks.php:792
+msgid "Helpful Plugin Links"
+msgstr "روابط مفيدة لإضافات أخرى"
+
+#: includes/shrsb_analytics_page.php:61
+#: includes/shrsb_authentication_page.php:126
+#: sexy-bookmarks.php:797
+msgid "Installation &amp; Usage Guide"
+msgstr "تثبيت البرنامج ودليل الاستخدام"
+
+#: includes/shrsb_analytics_page.php:62
+#: includes/shrsb_authentication_page.php:127
+#: sexy-bookmarks.php:798
+msgid "Frequently Asked Questions"
+msgstr "الأسئلة الشائعة"
+
+#: includes/shrsb_analytics_page.php:63
+#: includes/shrsb_authentication_page.php:128
+#: sexy-bookmarks.php:799
+msgid "Bug Submission Form"
+msgstr "نموذج تقديم الأخطاء"
+
+#: includes/shrsb_analytics_page.php:64
+#: includes/shrsb_authentication_page.php:129
+#: sexy-bookmarks.php:800
+msgid "Feature Request Form"
+msgstr "نموذج طلب ميزة"
+
+#: includes/shrsb_analytics_page.php:65
+#: includes/shrsb_authentication_page.php:130
+#: sexy-bookmarks.php:801
+msgid "Submit a Translation"
+msgstr "أرسل ترجمة"
+
+#: includes/shrsb_analytics_page.php:66
+#: includes/shrsb_authentication_page.php:131
+#: sexy-bookmarks.php:802
+msgid "Shareaholic Browsers Add-ons"
+msgstr "إضافة الروابط الجذابة الخاصة بالمتصفحات"
+
+#: includes/shrsb_analytics_page.php:67
+#: includes/shrsb_authentication_page.php:132
+#: sexy-bookmarks.php:803
+msgid "Thanks &amp; Credits"
+msgstr "صفحة المساهمين"
+
+#: includes/public.php:375
+msgid "An unknown error occurred in SexyBookmarks"
+msgstr "حدث خطأ غير معروف في الروابط الجذابة"
+
+#: includes/public.php:640
+msgid "SexyBookmarks has been disabled on this page"
+msgstr "الروابط الجذابة ستعرض على هذه الصفحة"
+
+#: includes/shrsb_authentication_page.php:51
+msgid "Shareaholic Pro"
+msgstr "النسخة الاحترافية من الروابط الجذابة"
+
+#: includes/shrsb_authentication_page.php:57
+msgid "Shareaholic Professional is coming!!!!"
+msgstr "الروابط الجذابة بنسختها الاحترافية قادمة!!!"
+
+#: includes/shrsb_authentication_page.php:73
+#: includes/shrsb_authentication_page.php:94
+msgid "Authenticate"
+msgstr "المصادقة"
+
+#: includes/shrsb_authentication_page.php:79
+msgid "Status"
+msgstr "الحالة"
+
+#: includes/shrsb_authentication_page.php:85
+msgid "Authenticated"
+msgstr "مصادق"
+
+#: includes/shrsb_authentication_page.php:90
+msgid "Enter the API key that you registered for your application."
+msgstr "أدخل مفتاح الوصلة البينية البرمجية التطبيقية الذي حصلت عليه عند التسجيل لبرنامجك."
+
+#: sexy-bookmarks.php:162
+msgid "NOTICE: Shareaholic was just updated... Please visit the %sPlugin Options Page%s and re-save your preferences."
+msgstr "ملاحظة: تم تحديث برنامج الروابط الجذابة... يرجى زيارة %sصفحة الإعدادات%s وقم بإعادة حفظ التفضيلات."
+
+#: sexy-bookmarks.php:200
+msgid "NOTICE: Shareaholic needs to be configured... Please visit the %sPlugin Options Page%s and set your preferences."
+msgstr "ملاحظة: يجب عليك إعداد برنامج الروابط الجذابة!... يرجى زيارة %sصفحة الإعدادات%s وقم بتعديل الخيارات."
+
+#: sexy-bookmarks.php:252
+msgid "WARNING: You are about to reset all settings to their default state! Do you wish to continue?"
+msgstr "تحذير: أنت على وشك استعادة جميع الإعدادات لحالتها الافتراضية! هل تريد المتابعة؟"
+
+#: sexy-bookmarks.php:256
+#: sexy-bookmarks.php:492
+#: sexy-bookmarks.php:615
+#: sexy-bookmarks.php:619
+#: sexy-bookmarks.php:628
+#: sexy-bookmarks.php:689
+#: sexy-bookmarks.php:770
+msgid "Yes"
+msgstr "نعم"
+
+#: sexy-bookmarks.php:256
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: sexy-bookmarks.php:296
+msgid "All settings have been reset to their default values."
+msgstr "تم استعادة جميع الإعدادات لقيمها الافتراضية."
+
+#: sexy-bookmarks.php:340
+msgid "Your changes have been saved successfully!"
+msgstr "تم حفظ التغييرات بنجاح!"
+
+#: sexy-bookmarks.php:343
+msgid "Please choose where you would like the menu to be displayed."
+msgstr "الرجاء قم باختيار إظهار القائمة بالمكان الذي ترغب به لعرضها."
+
+#: sexy-bookmarks.php:344
+msgid "You can't display the menu if you don't choose a few sites to add to it!"
+msgstr "لا يمكنك عرض القائمة إذا لم تقم باختيار بعض المواقع لإضافتهم!"
+
+#: sexy-bookmarks.php:345
+msgid "Please choose where you want the menu displayed."
+msgstr "الرجاء قم باختيار إظهار القائمة أينما تريد."
+
+#: sexy-bookmarks.php:355
+msgid "You must first download and activate the %sTwitter Friendly Links Plugin%s before hosting your own short URLs..."
+msgstr "يجب عليك أولاً تحميل إضافة %sTwitter Friendly Links Plugin%s وتفعيلها قبل استضافة روابطك القصيرة..."
+
+#: sexy-bookmarks.php:357
+msgid "You must first download and activate the %sYOURLS Plugin%s before hosting your own short URLs..."
+msgstr "يجب عليك أولاً تحميل إضافة %sYOURLS Plugin%s وتفعيلها قبل استضافة روابطك القصيرة..."
+
+#: sexy-bookmarks.php:374
+msgid "WARNING: The request for a custom sprite has timed out. Reverting to default sprite files."
+msgstr "تحذير: انتهت مهلة طلب الصور (sprite) المخصصة. استرجاع ملفات الصور الافتراضية."
+
+#: sexy-bookmarks.php:376
+msgid "Changes saved successfully. However, you should try to generate a custom sprite again later."
+msgstr "تم حفظ الإعدادات بنجاح. على أية حال، ينبغي عليك تجربة إنشاء صور مخصصة مرة أخرى لاحقاً."
+
+#: sexy-bookmarks.php:380
+#: sexy-bookmarks.php:402
+msgid "WARNING: Your %sspritegen folder%s is not writeable by the server! %sNeed Help?%s"
+msgstr "تحذير: مجلد %sspritegen folder%s غير قابل للكتابة على الخادم! %sهل تحتاج لمساعدة؟%s"
+
+#: sexy-bookmarks.php:382
+#: sexy-bookmarks.php:387
+#: sexy-bookmarks.php:392
+#: sexy-bookmarks.php:403
+#: sexy-bookmarks.php:407
+#: sexy-bookmarks.php:411
+msgid "Changes saved successfully. However, settings are not optimal until you resolve the issue listed above."
+msgstr "تم حفظ التغييرات بنجاح. لم يتم تغيير الإعدادات حتى تتم حل المشاكل المكتوبة أعلاه."
+
+#: sexy-bookmarks.php:385
+#: sexy-bookmarks.php:406
+msgid "WARNING: You need to delete the current custom sprite %s before the plugin can write to the folder. %sNeed Help?%s"
+msgstr "تحذير: تحتاج لحذف الصور المخصصة الحالية %s قبل أن تستطيع الإضافة التعديل على المجلد. %sهل تحتاج لمساعدة؟%s"
+
+#: sexy-bookmarks.php:390
+#: sexy-bookmarks.php:410
+msgid "WARNING: You need to delete the current custom stylesheet %s before the plugin can write to the folder. %sNeed Help?%s"
+msgstr "تحذير: تحتاج لحذف القالب المخصص الحالي %s قبل أن تستطيع الإضافة التعديل على المجلد. %sهل تحتاج لمساعدة؟%s"
+
+#: sexy-bookmarks.php:485
+msgid "Shareaholic for Publishers [BETA]"
+msgstr "الروابط الجذابة للناشرين [تجريبي]"
+
+#: sexy-bookmarks.php:490
+msgid "We completely re-wrote Shareaholic from the ground up to make it faster, smarter, better.  We wanted to remind you that we will be switching over everyone to this new version soon. If you haven't already, please try out this version now to make sure it is working properly for you."
+msgstr "لقد قمنا بإعادة كتابة إضافة الروابط الجذابة من الألف إلى الياء لجعلها تعمل بشكل أسرع وأفضل وأصغر حجماً. سنقوم بتذكيرك بأننا سنقوم بالانتقال إلى النسخة الجديدة قريباً. إذا كنت غير جاهز، يرجى تجربة هذه النسخة الآن لنتأكد بأنها تعمل بشكل جيد من أجلك."
+
+#: sexy-bookmarks.php:491
+msgid "Use new version?"
+msgstr "استخدام النسخة الجديدة؟"
+
+#: sexy-bookmarks.php:493
+#: sexy-bookmarks.php:616
+#: sexy-bookmarks.php:620
+#: sexy-bookmarks.php:624
+#: sexy-bookmarks.php:629
+#: sexy-bookmarks.php:633
+#: sexy-bookmarks.php:690
+#: sexy-bookmarks.php:694
+#: sexy-bookmarks.php:771
+msgid "No"
+msgstr "لا"
+
+#: sexy-bookmarks.php:494
+msgid "You can switch back at any time."
+msgstr "يمكنك الرجوع لاحقاً في أي وقت."
+
+#: sexy-bookmarks.php:498
+msgid "**BONUS** You have been selected to preview our upcoming premium analytics add-on for a limited time for FREE.  <b>%sFollow this link%s to keep on top of how your content is being shared!</b>"
+msgstr "**إضافة** لقد تم اختيارك لمشاهدة إضافة التحليل الاحترافية الخاصة بنا لوقت محدود مجاناً.  <b>%sاتبع هذا الرابط%s للاحتفاظ بمواضيع موقعك!</b>"
+
+#: sexy-bookmarks.php:498
+msgid "We are anxious to hear what you think. Please follow %sthis link%s to share your feedback with us!"
+msgstr "نهتم بسماع آرائكم، إذا كنت تريد ترك تعليق، رجاء اتبع %sهذا الرابط%s لنتبادل الأفكار والآراء معاً."
+
+#: sexy-bookmarks.php:505
+msgid "Enabled Networks"
+msgstr "الشبكات الاجتماعية المتوفرة"
+
+#: sexy-bookmarks.php:509
+msgid "Select the Networks to display. Drag to reorder."
+msgstr "حدد الشبكات الاجتماعية لعرضها. اسحبها لإعادة الترتيب."
+
+#: sexy-bookmarks.php:511
+msgid "Select"
+msgstr "حدد"
+
+#: sexy-bookmarks.php:512
+msgid "All"
+msgstr "الكل"
+
+#: sexy-bookmarks.php:513
+msgid "None"
+msgstr "بدون"
+
+#: sexy-bookmarks.php:514
+msgid "Most Popular"
+msgstr "الأكثر شعبية"
+
+#: sexy-bookmarks.php:524
+msgid "Made with Much Love, these Icons are © Shareaholic"
+msgstr "هذه الأيقونات محمية بموجب قانون حقوق الطبع والنشر من شركة Shareaholic"
+
+#: sexy-bookmarks.php:529
+msgid "Functionality Settings"
+msgstr "إعدادات الوظائف"
+
+#: sexy-bookmarks.php:535
+msgid "Twitter Options:"
+msgstr "خيارات تويتر:"
+
+#: sexy-bookmarks.php:537
+msgid "Configuration Instructions:"
+msgstr "تعليمات الإعدادات:"
+
+#: sexy-bookmarks.php:538
+msgid "Using the strings %s and %s you can fully customize your tweet output."
+msgstr "استخدم القيمة %s و %s يمكنك من تخصيص ناتج التويتر."
+
+#: sexy-bookmarks.php:539
+msgid "Example Configurations:"
+msgstr "أمثلة عن الإعدادات:"
+
+#: sexy-bookmarks.php:541
+msgid "or"
+msgstr "أو"
+
+#: sexy-bookmarks.php:545
+msgid "Configure Custom Tweet Template:"
+msgstr "إعداد قالب مخصص لتويتر:"
+
+#: sexy-bookmarks.php:545
+msgid "Characters:"
+msgstr "الأحرف:"
+
+#: sexy-bookmarks.php:548
+msgid "Example Tweet Output:"
+msgstr "مثال عن ناتج التويتر:"
+
+#: sexy-bookmarks.php:550
+msgid "Which URL Shortener?"
+msgstr "أي الروابط أقصر؟"
+
+#: sexy-bookmarks.php:555
+msgid "Don't use a shortener"
+msgstr "لا تستخدم الروابط القصيرة"
+
+#: sexy-bookmarks.php:569
+#: sexy-bookmarks.php:578
+#: sexy-bookmarks.php:591
+#: sexy-bookmarks.php:603
+msgid "User ID:"
+msgstr "رقم الحساب:"
+
+#: sexy-bookmarks.php:571
+#: sexy-bookmarks.php:580
+#: sexy-bookmarks.php:605
+msgid "API Key:"
+msgstr "مفتاح الوصلة البينية البرمجية التطبيقية:"
+
+#: sexy-bookmarks.php:587
+#: sexy-bookmarks.php:599
+msgid "Track Generated Links?"
+msgstr "تتبع الروابط المولدة؟"
+
+#: sexy-bookmarks.php:593
+msgid "Password:"
+msgstr "كلمة المرور:"
+
+#: sexy-bookmarks.php:612
+msgid "General Functionality Options:"
+msgstr "خيارات الأداء الوظيفي العام:"
+
+#: sexy-bookmarks.php:614
+msgid "Add nofollow to the links?"
+msgstr "إضافة عدم التتبع للروابط؟"
+
+#: sexy-bookmarks.php:618
+msgid "Open links in new window?"
+msgstr "فتح الروابط في نافذة جديدة؟"
+
+#: sexy-bookmarks.php:622
+msgid "Show Share Counters for Facebook, Twitter and Delicious?"
+msgstr "إظهار عداد المشاركة للفيس بوك وتويتر و Delicious؟ "
+
+#: sexy-bookmarks.php:623
+#: sexy-bookmarks.php:632
+msgid "Yes (recommended)"
+msgstr "نعم (مستحسن)"
+
+#: sexy-bookmarks.php:625
+msgid "(beta-mode exclusive feature)"
+msgstr "(ميزة حصرية - وضع تجريبي)"
+
+#: sexy-bookmarks.php:627
+msgid "Show Shareaholic Link?"
+msgstr "إظهار إعلان شركة Shareaholic أسفل شريط الروابط الجذابة؟"
+
+#: sexy-bookmarks.php:631
+msgid "Track Performance?"
+msgstr "تتبع الأداء؟"
+
+#: sexy-bookmarks.php:640
+msgid "Plugin Aesthetics"
+msgstr "تخصيص جمالية الإضافة"
+
+#: sexy-bookmarks.php:645
+msgid "Warning!"
+msgstr "تحذير!"
+
+#: sexy-bookmarks.php:646
+msgid "This option is intended %STRICTLY%s for users who understand how to edit CSS/JS and intend to change/edit the associated images themselves. Unfortunately, no support will be offered for this feature, as I cannot be held accountable for your coding and/or image editing mistakes."
+msgstr "المقصود من هذا الخيار هو كيفية التعديل على ملف تنسيق الستايل والجافا سكريبت الموجود ضمن الإضافة، لسوء الحظ إذا واجهتك أية مشكلة في تطبيق هذا الخيار فنحن غير قادرين على دعمك بعد تغيير الصور والتنسيق. ولا نتحمل أي مسؤولية عن خطأ في الترميز أو في تحرير الصور."
+
+#: sexy-bookmarks.php:647
+msgid "How it works..."
+msgstr "كيف تعمل..."
+
+#: sexy-bookmarks.php:648
+msgid "Since you have chosen for the plugin to override the style settings with your own custom mods, it will now pull the files from the new folders it is going to create on your server as soon as you save your changes. The file/folder locations should be as follows:"
+msgstr "عند اختيارك لخيار \"تجاوز أنماط التنسيق مع تخصيص نمط بدلاً منه\" من القائمة فسيتم سحب الملفات من المجلدات الجديدة التي ستنشأ على الخادم الخاص بك عند حفظ التغييرات. ستظهر الملفات والمجلدات بالشكل التالي:"
+
+#: sexy-bookmarks.php:665
+msgid "Once you have saved your changes, you will be able to edit the image sprite that holds all of the icons for Shareaholic as well as the CSS which accompanies it. Just be sure that you do in fact edit the CSS if you edit the images, as it is unlikely the heights, widths, and background positions of the images will stay the same after you are done."
+msgstr "وبمجرد الانتهاء من حفظ التغييرات الخاصة بك، ستصبح قادراً على تحرير ملف صورة sprite التي بداخلها جميع أيقونات برنامج الروابط الجذابة. تأكد فقط من تغيير الخيارات المناسبة في ملف CSS الجديد مثل ارتفاع وعرض الصور ومكان توضع الصورة."
+
+#: sexy-bookmarks.php:666
+msgid "Just a quick note... When you edit the styles and images to include your own custom backgrounds, icons, and CSS styles, be aware that those changes will not be reflected on the plugin options page. In other words: when you select your networks to be displayed, or when you select the background image to use, it will still be displaying the images from the original plugin directory."
+msgstr "مجرد ملاحظة سريعة... عند تحرير الأنماط والصور لتشمل الخلفيات المخصصة الخاصة بك، فهذا لن يؤثر على صفحة إعدادات البرنامج. وبعبارة أخرى: عند تحديد الشبكات الاجتماعية الخاصة بك ليتم عرضها أو عند تحديد صورة جانبية، فستبقى الصور الأصلية تعرض من المجلد الأصلي."
+
+#: sexy-bookmarks.php:667
+msgid "In Case of Emergency"
+msgstr "في حالة الطوارئ"
+
+#: sexy-bookmarks.php:668
+msgid "If you happen to mess things up, you can follow these directions to reset the plugin back to normal and try again if you wish:"
+msgstr "في حال بقيت المشكلة قائمة، فيمكنك اتباع الخطوات التالية لاستعادة الافتراضيات للبرنامج والعودة لطبيعته. بعدها حاول مرة أخرى إذا كنت ترغب بذلك:"
+
+#: sexy-bookmarks.php:670
+msgid "Login to your server via FTP or SSH. (whichever you are more comfortable with)"
+msgstr "سجل دخولك إلى الخادم المضيف لموقعك عن طريق حساب FTP أو غيره"
+
+#: sexy-bookmarks.php:671
+msgid "Navigate to your wp-content directory."
+msgstr "توجه إلى مجلد wp-content داخل مجلد الووردبريس."
+
+#: sexy-bookmarks.php:672
+msgid "Delete the directory named \"sexy-mods\"."
+msgstr "احذف مجلد \"sexy-mods\"."
+
+#: sexy-bookmarks.php:673
+msgid "Login to your WordPress dashboard."
+msgstr "سجل الدخول لحسابك في ووردبريس."
+
+#: sexy-bookmarks.php:674
+msgid "Go to the SexyBookmarks plugin options page. (Settings->SexyBookmarks)"
+msgstr "اذهب بعدها لصفحة إعدادات البرنامج في موقعك. (إعدادات->SexyBookmarks) "
+
+#: sexy-bookmarks.php:675
+msgid "Deselect the \"Use custom mods\" option."
+msgstr "قم بإلغاء تحديد الخيار: \"تجاوز أنماط التنسيق مع تخصيص نمط بدلاً منه\"."
+
+#: sexy-bookmarks.php:676
+msgid "Save your changes."
+msgstr "احفظ التغييرات."
+
+#: sexy-bookmarks.php:678
+msgid "Close Message"
+msgstr "أغلق الرسالة"
+
+#: sexy-bookmarks.php:682
+msgid "Override Styles With Custom Mods Instead?"
+msgstr "تجاوز أنماط التنسيق مع تخصيص نمط بدلاً منه؟"
+
+#: sexy-bookmarks.php:687
+msgid "jQuery Related Options"
+msgstr "الخيارات المتعلقة بمكتبة jQuery"
+
+#: sexy-bookmarks.php:688
+msgid "Animate-expand multi-lined bookmarks?"
+msgstr "تنشيط وتوسيع الأسطر المتعددة للروابط؟"
+
+#: sexy-bookmarks.php:691
+msgid "Auto-space/center the bookmarks?"
+msgstr "مسافة تلقائية / توسيط الروابط؟"
+
+#: sexy-bookmarks.php:692
+msgid "Space"
+msgstr "مسافة"
+
+#: sexy-bookmarks.php:693
+msgid "Center"
+msgstr "وسط"
+
+#: sexy-bookmarks.php:695
+msgid "jQuery Compatibility Fix"
+msgstr "تصحيح توافقية مكتبة jQuery"
+
+#: sexy-bookmarks.php:696
+msgid "Check this box ONLY if you notice jQuery being loaded twice in your source code!"
+msgstr "حدد هذا الخيار عندما تلاحظ أن مكتبة jQuery قد حملت مرتين في كود المصدر!"
+
+#: sexy-bookmarks.php:698
+msgid "Load scripts in Footer"
+msgstr "تحميل السكريبت في أسفل الصفحة"
+
+#: sexy-bookmarks.php:699
+msgid "Check this box if you want the SexyBookmarks javascript to be loaded in your blog's footer."
+msgstr "حدد هذا المربع إذا كنت تريد تحميل الجافا سكريبت في فوتر موقعك."
+
+#: sexy-bookmarks.php:701
+msgid "Background Image Options"
+msgstr "خيارات صورة الخلفية"
+
+#: sexy-bookmarks.php:703
+msgid "Use a background image?"
+msgstr "استخدام صورة خلفية؟"
+
+#: sexy-bookmarks.php:736
+msgid "Menu Placement"
+msgstr "مكان القائمة"
+
+#: sexy-bookmarks.php:742
+msgid "Need help with this? Find it in the %sofficial install guide%s."
+msgstr "تريد مساعدة في ذلك؟ ابحث عنها في %sofficial install guide%s."
+
+#: sexy-bookmarks.php:748
+msgid "Menu Location (in relation to content):"
+msgstr "مكان القائمة (كيفية ظهور قائمة الروابط في الموضوع):"
+
+#: sexy-bookmarks.php:749
+msgid "Above Content"
+msgstr "أعلى الموضوع"
+
+#: sexy-bookmarks.php:750
+msgid "Below Content"
+msgstr "أسفل الموضوع"
+
+#: sexy-bookmarks.php:751
+msgid "Above & Below Content"
+msgstr "أعلى وأسفل المواضيع"
+
+#: sexy-bookmarks.php:752
+msgid "Manual Mode"
+msgstr "الإعداد اليدوي"
+
+#: sexy-bookmarks.php:753
+msgid "Posts, pages, or the whole shebang?"
+msgstr "المواضيع، الصفحات، أو في كل مكان؟"
+
+#: sexy-bookmarks.php:758
+msgid "Posts Only"
+msgstr "المواضيع فقط"
+
+#: sexy-bookmarks.php:759
+msgid "Pages Only"
+msgstr "الصفحات فقط"
+
+#: sexy-bookmarks.php:760
+msgid "Index Only"
+msgstr "الصفحة الرئيسية فقط"
+
+#: sexy-bookmarks.php:761
+msgid "Posts &amp; Pages"
+msgstr "المواضيع &amp; الصفحات"
+
+#: sexy-bookmarks.php:762
+msgid "Posts &amp; Index"
+msgstr "المواضيع &amp; الصفحة الرئيسية"
+
+#: sexy-bookmarks.php:763
+msgid "Pages &amp; Index"
+msgstr "الصفحات &amp; الصفحة الرئيسية"
+
+#: sexy-bookmarks.php:764
+msgid "Posts, Pages, &amp; Index"
+msgstr "المواضيع، الصفحات &amp; الصفحة الرئيسية"
+
+#: sexy-bookmarks.php:768
+msgid "Click here for help with this option"
+msgstr "اضغط هنا للحصول على المساعدة على هذا الخيار"
+
+#: sexy-bookmarks.php:769
+msgid "Show in RSS feed?"
+msgstr "عرض في خلاصات المواضيع؟"
+
+#: sexy-bookmarks.php:773
+msgid "Hide menu from mobile browsers?"
+msgstr "إخفاء القائمة من متصفحات الجوال؟"
+
+#: sexy-bookmarks.php:782
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: sexy-bookmarks.php:786
+msgid "Reset Settings"
+msgstr "استعادة الإعدادات"
+
+#: sexy-bookmarks.php:837
+msgid "Shareaholic for Publishers"
+msgstr "الروابط الجذابة للناشرين"
+
+#: sexy-bookmarks.php:837
+msgid "Shareaholic"
+msgstr "الروابط الجذابة"
+
+#: sexy-bookmarks.php:840
+msgid "SexyBookmarks"
+msgstr "إعدادات الروابط الجذابة"
+
+#: sexy-bookmarks.php:886
+msgid "Settings"
+msgstr "إعدادات"
+
+#~ msgid "Short URL(s) have been reset."
+#~ msgstr " تم تصفير الروابط القصيرة."
+
+#~ msgid "BETA Testing"
+#~ msgstr "اختبار النسخة التجريبية"
+
+#~ msgid ""
+#~ "We completely re-wrote Shareaholic from the ground up to make it faster, "
+#~ "leaner, better."
+#~ msgstr ""
+#~ "لقد قمنا بإعادة كتابة إضافة الروابط الجذابة من الألف إلى الياء لجعلها "
+#~ "تعمل بشكل أسرع وأفضل وأصغر حجماً."
+
+#~ msgid ""
+#~ "This will clear %sALL%s short URLs. - Are you sure?  Note: you will also "
+#~ "need to \"Save Changes\" to complete the reset."
+#~ msgstr ""
+#~ "سوف يتم حذف %sجميع%s الروابط القصيرة. - هل أنت متأكد؟ ملاحظة: ستحتاج أيضاً "
+#~ "\"لحفظ التغييرات\" لإنهاء الاستعادة."
+
+#~ msgid "Reset all Short URLs"
+#~ msgstr "تصفير جميع الروابط"
+
+#~ msgid "SexyBookmarks (by Shareaholic)"
+#~ msgstr "الروابط الجذابة (بواسطة مضر صوص)"
+
+#~ msgid "Buzz up!"
+#~ msgstr "انشرها على صدى غوغل!"
+
+#~ msgid "Yahoo! Buzz Defaults:"
+#~ msgstr "افتراضيات صدى ياهو:"
+
+#~ msgid "Default Content Category:"
+#~ msgstr "تصنيف المحتويات الافتراضي:"
+
+#~ msgid "Default Media Type:"
+#~ msgstr "نوع الميديا الافتراضي:"
+
+#~ msgid "Twittley Defaults:"
+#~ msgstr "افتراضيات تويتر:"
+
+#~ msgid "Primary Content Category:"
+#~ msgstr "تصنيف المحتويات الرئيسي"
+
+#~ msgid "Technology"
+#~ msgstr "تكنولوجيا"
+
+#~ msgid "World &amp; Business"
+#~ msgstr "العالم &amp; تجارة"
+
+#~ msgid "Science"
+#~ msgstr "علوم"
+
+#~ msgid "Gaming"
+#~ msgstr "ألعاب"
+
+#~ msgid "Lifestyle"
+#~ msgstr "أسلوب حياة"
+
+#~ msgid "Entertainment"
+#~ msgstr "تسلية"
+
+#~ msgid "Sports"
+#~ msgstr "رياضة"
+
+#~ msgid "Offbeat"
+#~ msgstr "شاذ"
+
+#~ msgid "Internet"
+#~ msgstr "انترنت"
+
+#~ msgid "Click here to close this message"
+#~ msgstr "اضغط هنا لإغلاق هذه الرسالة"
+
+#~ msgid "close"
+#~ msgstr "إغلاق"
+
+#~ msgid "Default Tags:"
+#~ msgstr "أوسمة افتراضية:"
+
+#~ msgid "(sent via shareaholic)"
+#~ msgstr "(أرسلت بواسطة الموقع)"
+
+#~ msgid "(sent via http://shareaholic.com)"
+#~ msgstr "(أرسلت بواسطة الموقع)"
+
+#~ msgid "Maybe you would consider "
+#~ msgstr "ربما سيتوجب عليك الانتظار"
+
+#~ msgid "donating"
+#~ msgstr "التبرع"
+
+#~ msgid "You must first download and activate the"
+#~ msgstr "يجب عليك أولاً تحميل وتفعيل"
+
+#~ msgid "Twitter Friendly Links Plugin"
+#~ msgstr "إضافة الروابط الصديقة لتويتر"
+
+#~ msgid "before hosting your own short URLs..."
+#~ msgstr "قبل استضافة روابطك القصيرة..."
+
+#~ msgid "You May Also Like:"
+#~ msgstr "قد تحب أيضاً:"
+
+#~ msgid ""
+#~ "Get Shareaholic / SexyBookmarks for your web browser (Firefox, Google "
+#~ "Chrome, etc)."
+#~ msgstr ""
+#~ "احصل على شريط الأدوات / الروابط الجذابة لمتصفحك (فايرفوكس, غوغل كروم, "
+#~ "الخ)."
+
+#~ msgid "Learn more | Download"
+#~ msgstr "معلومات أكثر | تحميل"
+
+#~ msgid "This option is intended "
+#~ msgstr "القصد من هذا الخيار"
+
+#~ msgid "STRICTLY"
+#~ msgstr " الالتزام "
+
+#~ msgid ""
+#~ " for users who understand how to edit CSS/JS and intend to change/edit "
+#~ "the associated images themselves. No support will be offered for this "
+#~ "feature, as I cannot be held accountable for your coding/image-editing "
+#~ "mistakes. Furthermore, this feature was implemented as a favor to the "
+#~ "thousands of you who asked for such a feature, and as such, I would "
+#~ "appreciate it if you could refrain from sending nasty emails when you "
+#~ "break the plugin due to coding errors of your own."
+#~ msgstr ""
+#~ "بالنسبة للمستخدمين الذين يفهمون كيفية تحرير ملفات التنسيق CSS/JS وتحريرها "
+#~ "بالنسبة للقالب الذين يستخدمونه. ولم يتم تقديم أي دعم لهذه الميزة حيث أني "
+#~ "لا أتحمل المسؤولية من حدوث أخطاء نتيجة لتحرير خاطئ للصور. على جميع "
+#~ "الأحوال تم تطبيق هذه الميزة لمصلحة الآلاف الذين يستخدمون هذا البرنامج، "
+#~ "وعلى هذا النحو سوف أكون ممتناً لو امتنعتم بمراسلتي وطلب الدعم بسبب أخطاء "
+#~ "الترميز الخاصة بكم."
+
+#~ msgid "official install guide"
+#~ msgstr "دليل استخدام التثبيت"
+
+#~ msgid "This feature is still in the experimental phase, so please "
+#~ msgstr "هذه الميزة لا تزال في مرحلة تجريبية، لذا يرجى"
+
+#~ msgid "report any bugs"
+#~ msgstr "أرسل تقرير عن أي خطأ"
+
+#~ msgid "you may find"
+#~ msgstr "سوف تجد"
+
+#~ msgid "Support by Donating"
+#~ msgstr "الدعم عن طريق التبرع"
+
+#~ msgid ""
+#~ "If you like SexyBookmarks and wish to contribute towards it's continued "
+#~ "development, you can use the form below to do so."
+#~ msgstr ""
+#~ "إذا أعجبك برنامج الروابط الجذابة وتريد المساهمة في تطوير البرنامج، يمكنك "
+#~ "ذلك عن طريق استخدام النموذج في الأسفل لتقوم بالتبرع."
+
+#~ msgid "SexyBookmarks Development Support"
+#~ msgstr "دعم تطوير البرنامج"
+
+#~ msgid "Return to Your Dashboard"
+#~ msgstr "الرجوع إلى الصفحة الرئيسية"
+
+#~ msgid "Select Preset Amount? "
+#~ msgstr "تحديد مبلغ من القائمة؟"
+
+#~ msgid "Enter Custom Amount?"
+#~ msgstr "ادخال مبلغ مخصص؟"
+
+#~ msgid "Disable sponsor messages?"
+#~ msgstr "تعطيل رسائل الرعاة؟"
+
+#~ msgid "Shout-Outs"
+#~ msgstr "نشكر أيضاً على تجربة البرنامج"
+
+#~ msgid "Translation Contributors"
+#~ msgstr "المساهمون في الترجمة"
+
+#~ msgid "RU Translation: Yuri Gribov"
+#~ msgstr "الترجمة الروسية: Yuri Gribov"
+
+#~ msgid "FR Translation: Maitre Mo"
+#~ msgstr "الترجمة الفرنسية: Maitre Mo"
+
+#~ msgid "RO Translation: Ghenciu Ciprian"
+#~ msgstr "الترجمة الرومانية: Ghenciu Ciprian"
+
+#~ msgid "IT Translation: Carlo Veltri"
+#~ msgstr "الترجمة الإيطالية: Carlo Veltri"
+
+#~ msgid "ES Translation: Javier Pimienta"
+#~ msgstr "الترجمة الإستونية: Javier Pimienta"
+
+#~ msgid "CN Translation: Joojen"
+#~ msgstr "الترجمة الصينية: Joojen"
+
+#~ msgid "IT Translation: Giovanni Zuccaro"
+#~ msgstr "الترجمة الإيطالية: Giovanni Zuccaro"
+
+#~ msgid "TR Translation: &#214;mer Taylan Tu&#287;ut"
+#~ msgstr "الترجمة التركية: &#214;mer Taylan Tu&#287;ut"
+
+#~ msgid "DE Translation: Gunther Wegner"
+#~ msgstr "الترجمة الألمانية: Gunther Wegner"
+
+#~ msgid "da-DK Translation: Mads Floe"
+#~ msgstr "الترجمة الدنماركية: Mads Floe"
+
+#~ msgid "NO Translation: Svend Olaf Olsen"
+#~ msgstr "الترجمة الدنماركية: Mads Floe"
+
+#~ msgid "NL Translation: Martin van der Grond"
+#~ msgstr "الترجمة الدنماركية: Mads Floe"
+
+#~ msgid "I thought this article might interest you."
+#~ msgstr "لقد وجدت هذا الموضوع مفيداً لك."
+
+#~ msgid "You can read the full article here"
+#~ msgstr "يمكنك قراءة بقية الموضوع على الرابط التالي"
+
+#~ msgid "I would like to submit this article"
+#~ msgstr "أريد نشر هذا الموضوع"
