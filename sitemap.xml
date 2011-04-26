@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/jQuery-Brasil/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.1.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.4" -->
+<!-- generated-on="26/04/2011 6:07" -->
+<!-- Debug: Total comment count: 1 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://localhost/jQuery-Brasil/</loc>
+		<lastmod>2011-04-26T06:06:43+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 47: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asd-9/</loc>
+		<lastmod>2011-04-26T06:06:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://localhost/jQuery-Brasil/tutoriais/</loc>
+		<lastmod>2011-04-26T05:40:30+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 40: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/z/</loc>
+		<lastmod>2011-04-25T04:41:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 39: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asddd-5/</loc>
+		<lastmod>2011-04-25T04:41:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 38: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asddd-4/</loc>
+		<lastmod>2011-04-25T04:41:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 37: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asddd-3/</loc>
+		<lastmod>2011-04-25T04:41:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 36: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asddd-2/</loc>
+		<lastmod>2011-04-25T04:40:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 35: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asddd/</loc>
+		<lastmod>2011-04-25T04:40:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 29: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/zxczxczx/</loc>
+		<lastmod>2011-04-25T04:33:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 28: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/zczxczx-2/</loc>
+		<lastmod>2011-04-25T04:33:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 27: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/zczxczx/</loc>
+		<lastmod>2011-04-25T04:33:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 26: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asasd/</loc>
+		<lastmod>2011-04-25T04:33:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 14: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asd-8/</loc>
+		<lastmod>2011-04-25T04:32:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 13: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asd-7/</loc>
+		<lastmod>2011-04-25T04:31:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 12: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asd-6/</loc>
+		<lastmod>2011-04-25T04:31:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 11: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asd-5/</loc>
+		<lastmod>2011-04-25T04:31:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 10: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asd-4/</loc>
+		<lastmod>2011-04-25T04:30:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 9: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asd-3/</loc>
+		<lastmod>2011-04-25T04:30:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 8: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asd-2/</loc>
+		<lastmod>2011-04-25T04:30:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/asd/</loc>
+		<lastmod>2011-04-25T04:30:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 4: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/diferenca-entre-location-replace-de-location-href/</loc>
+		<lastmod>2011-04-11T03:37:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://localhost/jQuery-Brasil/pagina-exemplo/</loc>
+		<lastmod>2011-04-10T18:10:28+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1: Comments: 1 of 1 = 1 points -->
+	<url>
+		<loc>http://localhost/jQuery-Brasil/ola-mundo/</loc>
+		<lastmod>2011-04-10T18:10:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
