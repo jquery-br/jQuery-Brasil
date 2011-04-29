@@ -11,18 +11,18 @@
 	 */	
 
 	
-	$author = (isset($_GET['author_name'])) ? get_user_by('slug', $author_name) : get_userdata(intval($author)); 
+	$author = (isset($_GET['author_name'])) ? get_user_by('slug', $author_name) : get_userdata(intval($author));
 	
 	if (have_posts('')) : ?>
 		<div id="author-page">
 			<div id="about">
-				<h1>Sobre <?php echo $author->nickname; ?></h1>
+				<h1>Sobre <?php echo $author->display_name; ?></h1>
 				<div id="author-avatar">
 					<?php echo get_avatar($author->user_email, '90', $avatar); ?>
 				</div>
-				<?php echo $author->user_description; ?>
+				<p><?php echo $author->user_description; ?></p>
 			</div>
-			<h2>Últimos posts de <?php echo $author->nickname; ?></h2>
+			<h2>&Uacute;ltimos posts de <?php echo $author->display_name; ?></h2>
 		
 		</div>
 		<?php 
