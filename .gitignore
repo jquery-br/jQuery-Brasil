@@ -2,4 +2,6 @@
 .settings
 wp-config.php
 wp-content/uploads/
-
+sitemap.xml.gz
+sitemap.xml
+.htaccess
