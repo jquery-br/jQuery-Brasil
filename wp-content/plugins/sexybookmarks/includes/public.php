@@ -131,6 +131,11 @@ function shrsb_get_publisher_config($post_id) {
     'twitter_template' => $r['tweetconfig'],
     'mode' => 'inject',
     'spriteimg' => $r['spriteimg'],
+    'fbLikeButton' => $r['fbLikeButton'],
+    'designer_toolTips' => $r['designer_toolTips'],
+    'tip_bg_color' => $r['tip_bg_color'],  // tooltip background color
+    'tip_text_color' => $r['tip_text_color'], // tooltip text color
+    'fbButtonPos' => $r['fbButtonPos'],
 	'dontShowShareCount' => $r['showShareCount'] == "0",
 	'shrlink'	=> $r['shrlink'],
   );

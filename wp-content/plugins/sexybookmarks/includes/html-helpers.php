@@ -94,7 +94,7 @@ function bookmark_list_item($name, $opts=array()) {
                 var s=d.createElement("script");
                 s.setAttribute("language","javascript");
                 s.id="shr-servicelet";
-                s.setAttribute("src", "'.$shrsb_plugopts['shrbase'].'" + "/media/js/servicelet.js");
+                s.setAttribute("src", "'.$shrsb_plugopts['shrbase'].'" + "/media/js/servicelet.min.js");
                 d.body.appendChild(s);
             } else{
                 SHR.Servicelet.show();
