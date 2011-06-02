@@ -16,6 +16,12 @@
 						<span>SIGA-NOS NO TWITTER:</span>@JQUERYBR
 					</a>
 				</li>
+				<li>
+					<a title="jQuery Brasil no Itunes" href="itpc://jquerybrasil.org/feed/podcast">
+						<img alt="jQuery Brasil no Itunes" src="<?php bloginfo('template_directory'); ?>/img/categorias/podcast.png">
+						<span>FIQUE LIGADO NOS PODCASTS:</span>ITUNES
+					</a>
+				</li>
 			</ul>
 		</div>
 
