@@ -16,7 +16,7 @@ Simples, entre em contato através de algum email:
 
 Simples.
 
-## Depêndencias
+## Dependências
 
 No momentos nós estamos utilizando os seguintes plugins:
 
